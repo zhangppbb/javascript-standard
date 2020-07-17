@@ -2,7 +2,7 @@
 
 *一种 CSS-in-JavaScript 最合理的规范。*
 
-原作者: [airbnb][https://github.com/airbnb/javascript]，译：[康兵奎][https://github.com/BingKui/javascript-zh]
+原作者: [airbnb](https://github.com/airbnb/javascript)，译：[康兵奎](https://github.com/BingKui/javascript-zh)
 
 ## <a id="table-of-contents">目录</a>
 

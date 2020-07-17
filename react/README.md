@@ -2,7 +2,7 @@
 
 _一套对于 React 和 JSX 基本合理的规范_
 
-本指南是主要基于目前流行的 JavaScript 标准，因此一些惯例（如：async/await 或静态类字段）可能仍然包含其中或者被禁止。 目前，处在第 3 阶段的任何内容都不包含在本指南中，也不建议使用，原作者: [airbnb][https://github.com/airbnb/javascript]，译：[康兵奎][https://github.com/bingkui/javascript-zh]。
+本指南是主要基于目前流行的 JavaScript 标准，因此一些惯例（如：async/await 或静态类字段）可能仍然包含其中或者被禁止。 目前，处在第 3 阶段的任何内容都不包含在本指南中，也不建议使用，原作者: [airbnb](https://github.com/airbnb/javascript)，译：[康兵奎](https://github.com/BingKui/javascript-zh)。
 
 ## <a id="table-of-contents">目录</a>
 
