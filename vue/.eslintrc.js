@@ -73,6 +73,8 @@ module.exports = {
     // https://eslint.org/docs/rules/no-restricted-syntax 禁止使用指定的语法
     'guard-for-in': 0,
     // https://eslint.org/docs/rules/no-param-reassign 禁止重新分配功能参数（无参数重新分配）
-    'no-param-reassign': 0
+    'no-param-reassign': 0,
+    // https://eslint.org/docs/rules/comma-dangle 要求或不允许尾随逗号
+    "comma-dangle": [1, "never"]
   }
 }
