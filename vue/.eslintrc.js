@@ -20,19 +20,6 @@ module.exports = {
     parser: "babel-eslint"
   },
   rules: {
-    // https://eslint.vuejs.org/rules/max-attributes-per-line.html 每行vue / max属性 
-    "vue/max-attributes-per-line": [2, {
-      "singleline": 10,
-      "multiline": {
-        "max": 1,
-        "allowFirstLine": false
-      }
-    }],
-    // https://eslint.vuejs.org/rules/singleline-html-element-content-newline.html 在单行元素的内容之前和之后需要换行
-    "vue/singleline-html-element-content-newline": 0,
-    // https://eslint.vuejs.org/rules/multiline-html-element-content-newline.html 在多行元素的内容之前和之后需要换行
-    "vue/multiline-html-element-content-newline": 0,
-    // https://eslint.vuejs.org/rules/no-v-html.html#vue-no-v-html 禁止使用v-html防止XSS攻击
     "vue/no-v-html": 0,
     // https://eslint.org/docs/rules/camelcase 需要驼峰
     'camelcase': 0,
